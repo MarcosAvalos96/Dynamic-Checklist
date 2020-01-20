@@ -5,7 +5,7 @@ Sistema para llevar acabo los registros de tareas (Task, podrían ser abertura d
 
 #Capturas de pantalla
 ### Pantalla inicio
-el usuario debe de seleccionar alguna base o estación de los aeropuertos, para posteriormente agregar una checklist nuevo completamente, agregar uno nuevo desde una plantilla, o abrir uno existente
+el usuario debe de seleccionar alguna base o estación de los aeropuertos, para posteriormente agregar una checklist nuevo asociado a la base que seleccionó anteriormente, agregar uno nuevo desde una plantilla, o abrir uno existente
 <img src="Capturas/Pantalla_Inicio.png">
 
 ### Pantalla Inicio agregar checklist nuevo
