@@ -18,6 +18,7 @@ Nuevo con plantilla.
 <img src="Capturas/Pantalla_AgregarNuevo.png">
 
 Nombre y codigo validados.
+
 <img src="Capturas/invalidName.png">
 
 Agregar uno con plantilla validado si no seleccionas alguno salta SnackBar
