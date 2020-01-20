@@ -22,7 +22,11 @@ Nombre y codigo validados.
 <img src="Capturas/invalidName.png">
 
 Agregar uno con plantilla validado si no seleccionas alguno salta SnackBar
-<img src="Capturas/invalidTemplate.png">
+<img src="Capturas/invalidTemplate.png"
+
+### Nuevo checklist
+estado inicial del checklist
+<img src="Capturas/NuevoCheck.png">
 
 ### Pantalla Configurando un nuevo checklist
 pequeña explicación para que es cada boton, al final de la configuración se guarda el checklist y se manda a la API indicada.
