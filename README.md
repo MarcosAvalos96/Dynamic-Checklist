@@ -24,6 +24,10 @@ pequeña explicación para que es cada boton, al final de la configuración se g
 Haciendo Drag&Drop
 <img src="Capturas/Drag and drop.png">
 
+### Pantalla Guardando Checklist
+al darle al boton de save, se muestra un dialog con opción para cambiar el nombre al momento de guardar, un checkbox para guardarlo como plantilla o no, y un select para seleccionar las aerolineas que le vamos asignar a ese checklist en especial
+<img src="Capturas/checklist guardado.png">
+
 
 
 
