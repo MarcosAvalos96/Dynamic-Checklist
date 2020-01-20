@@ -10,7 +10,9 @@ el usuario debe de seleccionar alguna base o estación de los aeropuertos, para 
 
 ### Pantalla Inicio agregar checklist nuevo
 Despues de seleccionar la base, en este caso fue DEN(DENVER) usuario tiene opcion de crear uno nuevo, se abre un dialog donde se debe introducir el nombre y el codigo del checklist a crear, ademas de un checkbox para marcar sin queremos comenzar desde una plantilla o no.
+
 Nuevo sin plantilla.
 <img src="Capturas/Pantalla_AgregarNuevo.png">
+
 Nuevo con plantilla.
 <img src="Capturas/Pantalla_AgregarNuevoTemplate.png">
