@@ -21,7 +21,7 @@ estado inicial del checklist
 ### Pantalla Configurando un nuevo checklist
 pequeña explicación para que es cada boton, al final de la configuración se guarda el checklist y se manda a la API indicada.
 <img src="Capturas/ConfigurandoCheck.png">
-Haciendo Drag&Drop
+Haciendo Drag&Drop para cambiar de posición las tareas según le convenga al usuario
 <img src="Capturas/Drag and drop.png">
 
 ### Pantalla Guardando Checklist
